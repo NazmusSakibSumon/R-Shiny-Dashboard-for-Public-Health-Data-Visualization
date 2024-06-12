@@ -17,14 +17,7 @@ To run the dashboard locally, follow these steps:
 3. Open the `app.R` file in RStudio and click on the "Run App" button to launch the dashboard.
 
 ## Data Sources
-The data used in this dashboard is sourced from [insert data sources here].
-
-## License
-This project is licensed under the [insert license name]. See the [LICENSE](LICENSE) file for details.
-
-## Contributors
-- [Your Name](https://github.com/yourusername)
-- [Contributor Name](https://github.com/contributorusername)
+The data used in this dashboard is sourced from [https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-CDI-2023-Release/g4ie-h725/about_data].
 
 ## Feedback and Contributions
 Feedback and contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
